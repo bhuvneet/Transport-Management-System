@@ -12,12 +12,12 @@ The Transportation Management System (TMS) project features a set of capabilitie
 2. Order Assignment: Orders are assigned to one or more available carriers, ensuring efficient cargo allocation.
 3. Order Tracking: Real-time tracking of orders and their progress in the system.
 
-<b>Carrier Management:<b>
+<b>Carrier Management:</b>
 1. Carrier Assignment: Carriers are selected based on available routes and capacity.
 2. Trip Management: Trips are assigned to carriers to fulfill orders.
 3. Capacity Limitations: System considers carrier transportation capacity when assigning trips.
 
-<b>Time Simulation:<b>
+<b>Time Simulation:</b>
 1. Time Passage Simulation: Users can simulate the passage of time in 1-day increments, allowing for order and trip progression.
 
 <b>Billing and Invoicing:<b>
@@ -37,10 +37,6 @@ The Transportation Management System (TMS) project features a set of capabilitie
 <b>Database Backend:</b>
 1. MySQL Database: Utilizes a MySQL database for data storage and retrieval, ensuring data integrity.
 2. Secure Access: Access to the database is through named accounts and passwords for security.
-
-Project Management:
-1. Agile with SCRUM: Follows an Agile project management methodology with SCRUM practices.
-2. Milestone-Based: Progresses through milestones, including project preparation, design, testing, and demo readiness.
 
 <b>Non-Functional Requirements:</b>
 1. Speed: Ensures efficient system response within 2 seconds, minimizing wait times.
