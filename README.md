@@ -7,7 +7,7 @@ The Transportation Management System (TMS) is a personal project that challenges
 
 The Transportation Management System (TMS) project features a set of capabilities that make it a robust and efficient solution for managing the order creation, management, and billing processes in the shipping and logistics industry. Here are the key features and capabilities of the TMS project:
 
-<b>Order Management:<b>
+<b>Order Management:</b>
 1. Order Creation: Users can initiate orders from the Contract Marketplace, specifying cargo details.
 2. Order Assignment: Orders are assigned to one or more available carriers, ensuring efficient cargo allocation.
 3. Order Tracking: Real-time tracking of orders and their progress in the system.
