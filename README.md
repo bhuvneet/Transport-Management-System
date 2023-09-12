@@ -20,7 +20,7 @@ The Transportation Management System (TMS) project features a set of capabilitie
 <b>Time Simulation:</b>
 1. Time Passage Simulation: Users can simulate the passage of time in 1-day increments, allowing for order and trip progression.
 
-<b>Billing and Invoicing:<b>
+<b>Billing and Invoicing:</b>
 1. Invoice Generation: Automated invoice generation for completed orders.
 2. Billing Records: Storage of billing information and customer records.
 
