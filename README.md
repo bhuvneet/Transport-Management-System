@@ -3,26 +3,21 @@
 This is an academic project hence source code will not be publicly available. If you're interested in looking at the source code, please email me at bhuvneet3@gmail.com.
 
 <b>Demonstration of App</b>
-- Admin logs in and shows capabilities of making successful and unsuccessful SQL database connection attempts
-- Admin edits and saved the new CSV file
-- Admin shows the updated log file
-
-- SQL database shows that there's no data added to tables
-
-- Buyer logs in and gets some orders from Contract Marketplace (orders marketplace)
-- Buyer checks if there are any Completed orders or Invoices for Completed Orders
-
-- Planner logs in and selects some invoices to mark as Complete
-- Planner makes necessary edits to the order details and marks them as Active
-- Planner shows the order report
-
-- Database now has updated orders, completed orders, and invoices for completed orders
-- Invoices are also saved locally in a txt format
-
-- Buyer gets more orders from Contract Marketplace
-- Planner marks the last order as Complete
-- Database is updated for new orders, completed orders, and invoices for completed orders
-- Admin logs in to check the log file
+1. Admin logs in and shows capabilities of making successful and unsuccessful SQL database connection attempts
+2. Admin edits and saved the new CSV file
+3. Admin shows the updated log file
+4. SQL database shows that there's no data added to tables
+5. Buyer logs in and gets some orders from Contract Marketplace (orders marketplace)
+6. Buyer checks if there are any Completed orders or Invoices for Completed Orders
+7. Planner logs in and selects some invoices to mark as Complete
+8. Planner makes necessary edits to the order details and marks them as Active
+9. Planner shows the order report
+10. The database now has updated orders, completed orders, and invoices for completed orders
+11. Invoices are also saved locally in a txt format
+12. Buyer gets more orders from Contract Marketplace
+13. Planner marks the last order as Complete
+14. Database is updated for new orders, completed orders, and invoices for completed orders
+15. Admin logs in to check the log file
 
 https://github.com/bhuvneet/Transport-Management-System/assets/78770635/d27924bb-91f6-44fd-b947-62a8470b9667
 
